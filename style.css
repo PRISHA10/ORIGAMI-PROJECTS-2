@@ -1,0 +1,22 @@
+h1{
+    color: orangered;
+    border:solid black;
+    background-color: yellow;
+}
+
+   .GRID{
+   background-color: darkorchid;    
+   display:flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+   }
+   .content{
+    color: black;
+   display:wrap;
+   justify-content: space-between;
+    }
+.HEADER{
+ color: orange;   
+ background-color: darkorchid;
+
+}
